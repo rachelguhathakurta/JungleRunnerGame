@@ -1,0 +1,11 @@
+# Build output
+target/
+out/
+# IDE stuff
+.idea/
+*.iml
+# Java
+*.class
+*.log
+# OS junk
+.DS_Store
