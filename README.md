@@ -18,9 +18,9 @@ A fast, grid‑based, top‑down arcade game built in **Java 8** with **Swing** 
 
 **Controls**
 ```
-Arrow Keys  Move
-B           Blast nearby enemies
-T           Teleport (risky)
+Arrow Keys  Move 
+B   -      Blast nearby enemies
+T   -      Teleport (risky)
 ```
 
 ![Jungle Runner screenshot](resources/screenshot.png)
